@@ -6,25 +6,25 @@ This project involves a comprehensive analysis of sales data spanning 2014 to 20
 
 ### Objectives
 
--The analysis addresses the following key questions:
+- The analysis addresses the following key questions:
 
--What is the impact of discounts on sales and profit?
+- What is the impact of discounts on sales and profit?
 
--What are the total sales and profit trends over time (monthly, quarterly, yearly)?
+- What are the total sales and profit trends over time (monthly, quarterly, yearly)?
 
--Which product categories and sub-categories generate the most revenue and profit?
+- Which product categories and sub-categories generate the most revenue and profit?
 
--Which product categories or sub-categories should be prioritized for marketing and inventory restocking?
+- Which product categories or sub-categories should be prioritized for marketing and inventory restocking?
 
--Who are the top customers based on total sales and profit contribution?
+- Who are the top customers based on total sales and profit contribution?
 
--Which regions or cities have the highest and lowest sales performance?
+- Which regions or cities have the highest and lowest sales performance?
 
--Which customer segments are the most profitable?
+- Which customer segments are the most profitable?
 
--Which products are the best-sellers and worst-sellers?
+- Which products are the best-sellers and worst-sellers?
 
--Which products have the highest return in terms of profit margin?
+- Which products have the highest return in terms of profit margin?
 
 ### Data Transformation
 
@@ -36,15 +36,15 @@ This project involves a comprehensive analysis of sales data spanning 2014 to 20
 
 ### Analysis & Outcomes
 
-Below are the key findings corresponding to each objective:
+- Below are the key findings corresponding to each objective:
 
-Impact of Discounts on Sales and Profit
+- Impact of Discounts on Sales and Profit
 
-Overall revenue increased from ~$11.48 M before discounts to ~$11.49 M after discounts.
+- Overall revenue increased from ~$11.48 M before discounts to ~$11.49 M after discounts.
 
-Profit rose from ~$280.4 K to ~$286.4 K following discount application, indicating that strategic discounts drove incremental volume and profit.
+- Profit rose from ~$280.4 K to ~$286.4 K following discount application, indicating that strategic discounts drove incremental volume and profit.
 
-Sales and Profit Trends Over Time
+>> ### Sales and Profit Trends Over Time
 
 Yearly revenue grew steadily: 2014 ($2.47 M) → 2015 ($2.38 M) → 2016 ($3.05 M) → 2017 ($3.58 M).
 
